@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IOstream:jar">
+    <output-path>$USER_HOME$</output-path>
+    <root id="archive" name="IOstream.jar">
+      <element id="module-output" name="IOstream" />
+    </root>
+  </artifact>
+</component>
